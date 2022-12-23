@@ -1,8 +1,10 @@
 package com.mss.adventofcode2022;
+
 public class Day1 extends DayBase {
     public Day1() {
         super(1);
     }
+
     long maxTotal = 0;
     long maxOfElf = 0;
     long currentElfTotal = 0;

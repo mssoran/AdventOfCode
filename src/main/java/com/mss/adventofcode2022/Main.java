@@ -13,9 +13,9 @@ public class Main {
         DayBase dayObj;
         switch (day) {
             case 1: dayObj = new Day1(); break;
-//            case 2: dayObj = new Day2(); break;
-//            case 3: dayObj = new Day3(); break;
-//            case 4: dayObj = new Day4(); break;
+            case 2: dayObj = new Day2(); break;
+            case 3: dayObj = new Day3(); break;
+            case 4: dayObj = new Day4(); break;
 //            case 5: dayObj = new Day5(); break;
 //            case 6: dayObj = new Day6(); break;
 //            case 7: dayObj = new Day7(); break;
