@@ -17,9 +17,9 @@ public class Main {
             case 3: dayObj = new Day3(); break;
             case 4: dayObj = new Day4(); break;
             case 5: dayObj = new Day5(); break;
-//            case 6: dayObj = new Day6(); break;
-//            case 7: dayObj = new Day7(); break;
-//            case 8: dayObj = new Day8(); break;
+            case 6: dayObj = new Day6(); break;
+            case 7: dayObj = new Day7(); break;
+            case 8: dayObj = new Day8(); break;
 //            case 9: dayObj = new Day9(); break;
 //            case 10: dayObj = new Day10(); break;
 //            case 11: dayObj = new Day11(); break;
