@@ -22,10 +22,10 @@ public class Main {
             case 8: dayObj = new Day8(); break;
             case 9: dayObj = new Day9(); break;
             case 10: dayObj = new Day10(); break;
-//            case 11: dayObj = new Day11(); break;
-//            case 12: dayObj = new Day12(); break;
-//            case 13: dayObj = new Day13(); break;
-//            case 14: dayObj = new Day14(); break;
+            case 11: dayObj = new Day11(); break;
+            case 12: dayObj = new Day12(); break;
+            case 13: dayObj = new Day13(); break;
+            case 14: dayObj = new Day14(); break;
 //            case 15: dayObj = new Day15(); break;
 //            case 16: dayObj = new Day16(); break;
 //            case 17: dayObj = new Day17(); break;
