@@ -27,7 +27,7 @@ public class Main {
             case 13: dayObj = new Day13(); break;
             case 14: dayObj = new Day14(); break;
             case 15: dayObj = new Day15(); break;
-//            case 16: dayObj = new Day16(); break;
+            case 16: dayObj = new Day16(); break;
 //            case 17: dayObj = new Day17(); break;
 //            case 18: dayObj = new Day18(); break;
 //            case 19: dayObj = new Day19(); break;
