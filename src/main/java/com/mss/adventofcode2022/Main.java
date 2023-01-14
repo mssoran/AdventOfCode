@@ -30,10 +30,10 @@ public class Main {
             case 16: dayObj = new Day16(); break;
             case 17: dayObj = new Day17(); break;
             case 18: dayObj = new Day18(); break;
-//            case 19: dayObj = new Day19(); break;
-//            case 20: dayObj = new Day20(); break;
-//            case 21: dayObj = new Day21(); break;
-//            case 22: dayObj = new Day22(); break;
+            case 19: dayObj = new Day19(); break;
+            case 20: dayObj = new Day20(); break;
+            case 21: dayObj = new Day21(); break;
+            case 22: dayObj = new Day22(); break;
 //            case 23: dayObj = new Day23(); break;
 //            case 24: dayObj = new Day24(); break;
 //            case 25: dayObj = new Day25(); break;
