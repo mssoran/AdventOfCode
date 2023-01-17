@@ -34,9 +34,9 @@ public class Main {
             case 20: dayObj = new Day20(); break;
             case 21: dayObj = new Day21(); break;
             case 22: dayObj = new Day22(); break;
-//            case 23: dayObj = new Day23(); break;
-//            case 24: dayObj = new Day24(); break;
-//            case 25: dayObj = new Day25(); break;
+            case 23: dayObj = new Day23(); break;
+            case 24: dayObj = new Day24(); break;
+            case 25: dayObj = new Day25(); break;
             default:
                 printUsage();
                 throw new RuntimeException("Day "+day+" is not supported");
